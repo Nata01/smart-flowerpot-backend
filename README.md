@@ -1,0 +1,1 @@
+```docker run -d -p 80:8080 --restart=always --name=smart-flowepot-backend smart-flowerpot-backend:1.0```
